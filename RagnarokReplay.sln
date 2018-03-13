@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RagnarokReplay", "RagnarokReplay\RagnarokReplay.csproj", "{3F5450CA-D4F6-4EA7-B456-64E87E5A7458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RagnarokReplayExample", "RagnarokReplayExample\RagnarokReplayExample.csproj", "{4FC470A4-BCA5-4FAC-8493-060B472BDA36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F5450CA-D4F6-4EA7-B456-64E87E5A7458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5450CA-D4F6-4EA7-B456-64E87E5A7458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5450CA-D4F6-4EA7-B456-64E87E5A7458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5450CA-D4F6-4EA7-B456-64E87E5A7458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC470A4-BCA5-4FAC-8493-060B472BDA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC470A4-BCA5-4FAC-8493-060B472BDA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC470A4-BCA5-4FAC-8493-060B472BDA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC470A4-BCA5-4FAC-8493-060B472BDA36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEAE65F5-A27E-47F1-84D5-1E3D35BAD7EA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mrdiablo.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RagnarokReplay\\RagnarokReplay.csproj
+		SccProjectName1 = RagnarokReplay
+		SccLocalPath1 = RagnarokReplay
+		SccProjectUniqueName2 = RagnarokReplayExample\\RagnarokReplayExample.csproj
+		SccProjectName2 = RagnarokReplayExample
+		SccLocalPath2 = RagnarokReplayExample
+	EndGlobalSection
+EndGlobal
